@@ -1,0 +1,8 @@
+[submodule "GitLab/theme_mager"]
+	path = GitLab/theme_mager
+	url = git@gitlab.com:nexapp-srl/odoo/theme_mager.git
+	branch = 15.0
+[submodule "GitLab/na_mager_product"]
+	path = GitLab/na_mager_product
+	url = git@gitlab.com:nexapp-srl/odoo/na_mager_product.git
+	branch = dev
