@@ -6,3 +6,11 @@
 	path = GitLab/na_mager_product
 	url = git@gitlab.com:nexapp-srl/odoo/na_mager_product.git
 	branch = dev
+[submodule "GitLab/na_ob_chatter_position"]
+	path = GitLab/na_ob_chatter_position
+	url = git@gitlab.com:nexapp-srl/odoo/na_ob_chatter_position.git
+	branch = 15.0
+[submodule "GitLab/na_website_scroll_top_bytesfuel"]
+	path = GitLab/na_website_scroll_top_bytesfuel
+	url = git@gitlab.com:nexapp-srl/odoo/na_website_scroll_top_bytesfuel.git
+	branch = 15.0
